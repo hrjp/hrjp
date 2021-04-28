@@ -12,13 +12,14 @@
 <a href="https://github.com/hrjp/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=hrjp&show_icons=true&theme=cobalt" />
 </a>
-
+<!--
 <a href="https://github.com/hrjp/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrjp&theme=cobalt" />
 </a>
 
 [![](https://raw.githubusercontent.com/hrjp/hrjp/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/hrjp/hrjp/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/hrjp/hrjp/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)-->
+
 [![](https://raw.githubusercontent.com/hrjp/hrjp/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <!--
 <a href="https://github.com/hrjp" target="_blank">

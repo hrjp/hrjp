@@ -8,6 +8,12 @@
   </a>
 </p>
 -->
+![](https://img.shields.io/github/followers/hrjp?style=flat)
+![](https://img.shields.io/github/stars/hrjp)
+![](https://komarev.com/ghpvc/?username=hrjp)
+
+
+
 
 # My Portfolio --> https://hrjp.github.io/
 ---

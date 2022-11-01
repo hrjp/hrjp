@@ -15,7 +15,7 @@
 
 
 
-# My Portfolio --> https://hrjp.github.io/
+## https://hrjp.github.io/
 ---
 
 <a href="https://github.com/hrjp/github-readme-stats">

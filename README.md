@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=hrjp)
 
 ## Portfolio -> https://hrjp.github.io
-## Othello AI -> https://hrjp.github.io/othello-ai/
+<!--## Othello AI -> https://hrjp.github.io/othello-ai/ -->
 <a href="https://github.com/hrjp/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=hrjp&show_icons=true&theme=cobalt" />
 </a>

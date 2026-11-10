@@ -3,18 +3,31 @@
 ![](https://komarev.com/ghpvc/?username=hrjp)
 
 ## Portfolio -> https://hrjp.github.io
-## ものづくり
 
-- [q3dweb 2026](https://hrjp.github.io/creation/q3dweb/) — ブラウザとVS Codeで動作する軽量な3D点群ビューア。PCD, PLY, LAS, LAZ, E57に対応。
-- [Easys 水中ロボット 2024](https://hrjp.github.io/creation/easys-underwater-robot-2024/) — オープンソースの水中ロボット。ROSパッケージとシミュレータを整備。
-- [自動運転AIチャレンジ2024](https://hrjp.github.io/creation/autonomous-ai-challenge-2024/) — EVカートで自動運転を行い、サーキット周回タイムを競うチャレンジ。3位入賞。
-- [数珠状グリッパ 2023](https://hrjp.github.io/creation/juzu-gripper-2023/) — 形状と固さを自在に制御できる数珠状のグリッパ。
-- [自動運転AIチャレンジ2023](https://hrjp.github.io/creation/autonomous-ai-challenge-2023/) — シミュレータ上でレーシングカーを自動走行させ、タイムを競う競技に参加。
-- [plat (つくばチャレンジ2021-2023)](https://hrjp.github.io/creation/plat-tsukuba-challenge/) — つくばチャレンジ2023で完走した自律移動ロボット。
-- [Quadruped robot 2020](https://hrjp.github.io/creation/quadruped-robot-2020/) — 3Dプリンタと12個のサーボモータで構成されたシンプルな4脚歩行ロボット。
-- [Navit(oo)n (中之島ロボットチャレンジ2019-2023)](https://hrjp.github.io/creation/navitoon/) — 人や自転車が行き交う市街地を、ぶつからず自動で走行する自律移動ロボット。
-- [高専ロボコン2018 VICT(OO)N](https://hrjp.github.io/creation/victoon-2018/) — 高専ロボコン2018で近畿地区大会優勝、全国大会特別賞を受賞したペットボトルを投げるロボット。
-- [高専ロボコン2017 さるかにんぽう](https://hrjp.github.io/creation/sarukaninpo-2017/) — 高専ロボコン2017で近畿地区大会技術賞、全国大会特別賞を受賞した風船を割るロボット。
+## Projects
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="https://hrjp.github.io/creation/q3dweb/"><img src="https://hrjp.github.io/assets/projects/q3dweb.png" alt="q3dweb" width="100%"><br><strong>q3dweb</strong></a><br>Browser and VS Code point cloud viewer.</td>
+<td width="33%" valign="top"><a href="https://hrjp.github.io/creation/easys-underwater-robot-2024/"><img src="https://hrjp.github.io/assets/projects/easys-underwater-robot-2024.jpg" alt="Easys Underwater Robot" width="100%"><br><strong>Easys Underwater Robot</strong></a><br>Open-source underwater robot with ROS packages and a simulator.</td>
+<td width="33%" valign="top"><a href="https://hrjp.github.io/creation/autonomous-ai-challenge-2024/"><img src="https://hrjp.github.io/assets/projects/autonomous-ai-challenge-2024.png" alt="Autonomous Driving AI Challenge 2024" width="100%"><br><strong>Autonomous Driving AI Challenge 2024</strong></a><br>Autonomous EV kart racing; third place in the final.</td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="https://hrjp.github.io/creation/juzu-gripper-2023/"><img src="https://hrjp.github.io/assets/projects/juzu-gripper-2023.jpg" alt="Juzu Type Gripper" width="100%"><br><strong>Juzu Type Gripper</strong></a><br>A gripper with actively controllable shape and stiffness.</td>
+<td width="33%" valign="top"><a href="https://hrjp.github.io/creation/autonomous-ai-challenge-2023/"><img src="https://hrjp.github.io/assets/projects/autonomous-ai-challenge-2023.jpg" alt="Autonomous Driving AI Challenge 2023" width="100%"><br><strong>Autonomous Driving AI Challenge 2023</strong></a><br>Autonomous racing in a simulated competition.</td>
+<td width="33%" valign="top"><a href="https://hrjp.github.io/creation/plat-tsukuba-challenge/"><img src="https://hrjp.github.io/assets/projects/plat-tsukuba-challenge.jpg" alt="plat" width="100%"><br><strong>plat</strong></a><br>Autonomous mobile robot that completed Tsukuba Challenge 2023.</td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="https://hrjp.github.io/creation/quadruped-robot-2020/"><img src="https://hrjp.github.io/assets/projects/quadruped-robot-2020.jpg" alt="Quadruped Robot" width="100%"><br><strong>Quadruped Robot</strong></a><br>A 3D-printed walking robot with 12 servo motors.</td>
+<td width="33%" valign="top"><a href="https://hrjp.github.io/creation/navitoon/"><img src="https://hrjp.github.io/assets/projects/navitoon.jpg" alt="Navit(oo)n" width="100%"><br><strong>Navit(oo)n</strong></a><br>Autonomous mobile robot navigating urban streets.</td>
+<td width="33%" valign="top"><a href="https://hrjp.github.io/creation/victoon-2018/"><img src="https://hrjp.github.io/assets/projects/victoon-2018.jpg" alt="VICT(OO)N" width="100%"><br><strong>VICT(OO)N</strong></a><br>A bottle-throwing robot built for Kosen Robocon 2018.</td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="https://hrjp.github.io/creation/sarukaninpo-2017/"><img src="https://hrjp.github.io/assets/projects/sarukaninpo-2017.jpg" alt="Sarukaninpo" width="100%"><br><strong>Sarukaninpo</strong></a><br>A balloon-popping robot built for Kosen Robocon 2017.</td>
+<td width="33%"></td>
+<td width="33%"></td>
+</tr>
+</table>
 
 <!--## Othello AI -> https://hrjp.github.io/othello-ai/ -->
 <a href="https://github.com/hrjp/github-readme-stats">

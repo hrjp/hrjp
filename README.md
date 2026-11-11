@@ -2,9 +2,8 @@
 ![](https://img.shields.io/github/stars/hrjp)
 ![](https://komarev.com/ghpvc/?username=hrjp)
 
-## Portfolio
 
-Explore my robotics projects and research: **[hrjp.github.io](https://hrjp.github.io/)**
+# Explore my robotics projects and research: **[hrjp.github.io](https://hrjp.github.io/)**
 
 <!--## Othello AI -> https://hrjp.github.io/othello-ai/ -->
 <!--<a href="https://github.com/hrjp/github-readme-stats">

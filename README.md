@@ -6,9 +6,7 @@
 # Explore my robotics projects and research: **[hrjp.github.io](https://hrjp.github.io/)**
 
 <!--## Othello AI -> https://hrjp.github.io/othello-ai/ -->
-<!--<a href="https://github.com/hrjp/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hrjp&show_icons=true&theme=cobalt" />
-</a>-->
+[![GitHub stats](https://raw.githubusercontent.com/hrjp/hrjp/main/profile-summary-card-output/cobalt/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://raw.githubusercontent.com/hrjp/hrjp/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
